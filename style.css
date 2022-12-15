@@ -219,3 +219,10 @@ body{
     border: 2px solid black;
     background-color: rgb(218, 194, 12);
   }
+
+
+  @media screen and (max-width:500px) {
+        .playpart img{
+                height: 100px;
+        }
+  }
